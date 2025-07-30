@@ -15,7 +15,7 @@ This project leverages computer vision—specifically, MediaPipe's robust hand l
 - Real-time hand gesture detection using MediaPipe (rock, paper, scissors)
 - Video feed, result overlay, countdown, and running score display
 - Keyboard controls:
-  - SPACE: Start a round
+  - S (on Keyboard): Start a round
   - Q or ESC: Quit
 - Engaging and easy-to-use webcam interface
 - **No machine learning or AI; computer's choice is random**
@@ -48,7 +48,7 @@ python rps_game.py
    - Rock: Make a fist (only thumb extended or none).
    - Paper: Extend all four fingers except thumb.
    - Scissors: Extend index and middle fingers only.
-4. Press SPACE to start each countdown and round.
+4. Press 'S' to start each countdown and round.
 5. Press 'q' or ESC to exit.
 
 ---
